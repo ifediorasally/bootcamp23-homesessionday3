@@ -1,0 +1,143 @@
+body
+{
+    background-color: whitesmoke;
+    height: auto;
+    width: 100%;
+    overflow-x: hidden;
+}
+.myhead
+{
+    height: 100px;
+    margin: auto;
+    width: 75%;
+    background-color: white;
+}
+.d
+{
+    height:50px;
+    border-left:0.5px lightgrey solid; 
+    float:right;
+    margin-right:650px;
+    margin-top: 9px;
+}
+#select
+{
+    margin-left: 10px;
+    position: absolute;
+    height: 30px;
+    margin-top: 17px;
+    width: 100px;
+}
+.Login
+{
+    height: 30px;
+    background-color: red;
+    margin-left: 115px;
+    border: none;
+    position: absolute;
+    margin-top: 17px;
+    width: 55px;
+    color: white;
+    
+    
+}
+.Login2
+{
+    height: 34px;
+    background-color: red;
+    margin-left: 538px;
+    float:left;
+    border: none;
+    position: absolute;
+    margin-top: 18px;
+    width: 55px;
+    color: white;
+    
+    
+}
+.Search
+{
+    width: 200px;
+    position: absolute;
+    border: solid 1px lightgrey;
+    float: left;
+    height: 30px;
+    margin-left: 330px;
+    margin-top: 18px;
+    text-align: center;
+    color: lightgrey;
+    font-style: oblique;
+}
+.Container1
+{
+ height: 70px;
+width: 75%;
+    background-color: lightslategray;
+    margin-left: 170px;
+    position: absolute;
+    margin-top: 0px;
+    
+    
+}
+ul
+{
+    list-style: none;
+}
+li
+{
+    float: left;
+    margin-left: 25px;
+    color: white;
+    
+}
+
+.container4
+{
+ height: 70px;
+width: 50%;
+border: solid 1px black;
+background-color: red;
+    
+}
+.hold_Others
+{
+    height: 500px;
+    width: 75%;
+    background-color: white;
+    margin: auto;
+}
+.Aside
+{
+    width: 100%;
+    height: 150px;
+    background-color: lightgrey;
+    margin-top: 80px;
+    border-bottom: 4px whitesmoke solid;
+}
+.imgDesign
+{
+  margin-top: 15px;
+margin-left: 17px;
+    border: solid whitesmoke 0.5px;
+}
+.head
+{
+    margin-top: 40px;
+    margin-left: 0px;
+    color: red;
+    float: left;
+    padding-left: 100px;
+    font-weight: bold;
+}
+label
+{
+    color:darkgray;
+    font-weight: normal;
+}
+.foot
+{
+    width: 100%;
+    height: 30px;
+    border-top: solid 1.5px whitesmoke;
+    margin-top: 220px;
+}
